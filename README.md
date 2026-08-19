@@ -2,12 +2,12 @@
 
 ## 📌 Project Overview
 In this project, Amazon, a global leader in e-commerce, faced inefficiencies in its decision-making process without a consolidated, data-driven approach. This project was developed to provide the actionable insights needed to enhance product sales, optimize financial strategies, identify expansion areas for logistics, and assess market positioning against competitors like Walmart and Costco. 
-The analysis targets the **Strategic Decision-Making Level**, providing executive leadership (CEO, CFO, and COO) with high-level insights to drive long-term goals and maximize company profitability.
+The analysis focuses on strategic decision-making, translating data into insights for long-term business planning.
 
 ---
 
 ## 🎯 Key Objectives
-*   **Product Strategies:** Identify categories, price ranges and customer preferences associated with stronger sales performance.
+*   **Product Strategies:** Identify product categories, price ranges, ratings, and discount levels associated with stronger sales performance.
 *   **Financial Health & Forecasting:** Evaluate income statements, cash flows, and balance sheets to reveal strategic insights for future direction.
 *   **Supply Chain Optimization:** Analyse the geographic distribution of FBA warehouses to identify potential gaps and expansion opportunities.
 *   **Competitive Benchmarking:** Assess threats from direct competitors by examining past revenue, marketing spend, and e-commerce market share.
@@ -18,23 +18,23 @@ The analysis targets the **Strategic Decision-Making Level**, providing executiv
 This project features five interactive Power BI dashboards designed to facilitate drill-down analysis and high-level strategic oversight.
 
 ### **1. Product Performance Overview**
-Market trends and consumer preferences.
+Identify the product categories, price ranges, ratings, and discount levels associated with stronger sales performance.
 ![Dashboard Screenshot](images/dashboard1_product_performance.png)
 
 ### **2. Warehouse & Logistics (US)**
-Supply chain efficiency and expansion opportunities.
+Analyse the geographic distribution of Amazon FBA warehouses and identify potential gaps for network expansion.
 ![Dashboard Screenshot](images/dashboard2_warehouse.png)
 
 ### **3. Financial Analysis**
-Historical financial health (2021–2024).
+Evaluate Amazon's historical revenue, profitability, assets, debt, and cash-flow trends from 2021–2024.
 ![Dashboard Screenshot](images/dashboard3_financial_analysis.png)
 
 ### **4. Financial Forecast**
-Predictive modeling for strategic resource allocation.
+Forecast revenue, free cash flow, debt, and stock price using Power BI's Exponential Smoothing (ETS) models.
 ![Dashboard Screenshot](images/dashboard4_financial_forecast.png)
 
 ### **5. Competitors Benchmarking**
-Competitive benchmarking and market positioning.
+Benchmark Amazon against Walmart and Costco using revenue, marketing expenditure, and market-share indicators.
 ![Dashboard Screenshot](images/dashboard5_competitor_analysis.png)
 
 
@@ -55,7 +55,7 @@ Competitive benchmarking and market positioning.
 
 ### 3. Financial Analysis & Forecasting
 - From **2021–2024**, Amazon recorded growth in **revenue, net income, assets, and cash flow**, while total debt declined.
-- ETS forecasting projects approximately **8% annual revenue growth** and **free cash flow reaching $98B by 2027**.
+- ETS forecasting projects approximately **8% year-over-year revenue growth** and **free cash flow reaching $98B by 2027**.
 - Total debt is forecast at approximately **$131B**, with a wider confidence interval indicating greater uncertainty.
 - **Business implication:** Use projected revenue and cash-flow growth to inform long-term investment planning while accounting for forecast uncertainty.
 
