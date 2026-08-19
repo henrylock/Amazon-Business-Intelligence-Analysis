@@ -16,27 +16,26 @@ The analysis targets the **Strategic Decision-Making Level**, providing executiv
 
 ## 📊 Interactive Dashboards
 This project features five interactive Power BI dashboards designed to facilitate drill-down analysis and high-level strategic oversight.
-Interactive Power BI dashboards are included in this repository for exploring the analysis and key business insights. **[View / Download the Power BI Dashboard](dashboard/Amazon%20Project%20Dashboard.pbix)**
 
 ### **1. Product Performance Overview**
-*   **Focus:** Market trends and consumer preferences.
-*   ![Dashboard Screenshot](images/dashboard1_product_performance)
+Market trends and consumer preferences.
+![Dashboard Screenshot](images/dashboard1_product_performance.png)
 
 ### **2. Warehouse & Logistics (US)**
-*   **Focus:** Supply chain efficiency and expansion opportunities.
-*   ![Dashboard Screenshot](images/dashboard2_warehouse.png)
+Supply chain efficiency and expansion opportunities.
+![Dashboard Screenshot](images/dashboard2_warehouse.png)
 
 ### **3. Financial Analysis**
-*   **Focus:** Historical financial health (2021–2024).
-*   ![Dashboard Screenshot](images/dashboard3_financial_analysis.png)
+Historical financial health (2021–2024).
+![Dashboard Screenshot](images/dashboard3_financial_analysis.png)
 
 ### **4. Financial Forecast**
-*   **Focus:** Predictive modeling for strategic resource allocation.
-*   ![Dashboard Screenshot](images/dashboard4_financial_forecast.png)
+Predictive modeling for strategic resource allocation.
+![Dashboard Screenshot](images/dashboard4_financial_forecast.png)
 
 ### **5. Competitors Benchmarking**
-*   **Focus:** Competitive benchmarking and market positioning.
-*   ![Dashboard Screenshot](images/dashboard5_competitor_analysis.png)
+Competitive benchmarking and market positioning.
+![Dashboard Screenshot](images/dashboard5_competitor_analysis.png)
 
 
 ---
