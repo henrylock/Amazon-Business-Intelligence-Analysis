@@ -1,9 +1,7 @@
 # Amazon Strategic Business Intelligence Analysis
 
 ## 📌 Project Overview
-In this project, Amazon, a global leader in e-commerce, faced inefficiencies in its decision-making process without a consolidated, data-driven approach. This project was developed to provide the actionable insights needed to enhance product sales, optimize financial strategies, identify expansion areas for logistics, and assess market positioning against competitors like Walmart and Costco. 
-The analysis focuses on strategic decision-making, translating data into insights for long-term business planning.
-
+This project uses a hypothetical scenario inspired by Amazon's scale as a global e-commerce leader, exploring how a data-driven approach could improve decision-making, based on a publicly available Kaggle dataset. The goal is to generate actionable insights that enhance product sales, optimize financial strategies, identify logistics expansion opportunities, and assess market positioning against competitors.
 ---
 
 ## 🎯 Key Objectives
